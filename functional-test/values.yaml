@@ -1,3 +1,0 @@
-app:
-  name: control-tower-functional
-replicas: 3
