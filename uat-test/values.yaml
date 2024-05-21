@@ -1,0 +1,3 @@
+app:
+  name: control-tower-uat
+replicas: 1
