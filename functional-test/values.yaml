@@ -1,3 +1,0 @@
-app:
-  name: control-plane-functional
-replicas: 3
